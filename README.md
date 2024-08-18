@@ -1,4 +1,5 @@
 # Schedule Setup > Event Handing: POS and EXD device
+work-portfolio(acti)
 
 ## 一、專案目的
 1. **設定 POS 及 Extended Device 的事件觸發時間範圍**  
