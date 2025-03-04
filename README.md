@@ -40,5 +40,6 @@ Used RESTful APIs for communication with the backend, ensuring that the configur
 POS and Extended Device systems come in various models with different configurations. The project needed to ensure system compatibility with multiple devices and correctly process different event formats. To address this, we designed a flexible data integration module that standardizes operations across different devices through an abstraction layer.  
 
 ## 5. System Architecture Diagram  
-![image](https://github.com/user-attachments/assets/280daeb7-24f0-4a21-ae42-c2abce9006da)
+![image](https://github.com/user-attachments/assets/58c5c499-7dd1-417e-a0d3-8ca7f259fcb9)
+
 
